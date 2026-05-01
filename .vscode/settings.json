@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "SQL Tasks",
+            "database": "tasks.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
